@@ -1,4 +1,6 @@
 # Git Homework 1
+Hi! My repository is https://github.com/AndrianaO/GitHomework1 
+I've done all three tasks there and for some reason, I was unable to add you as a viewer. I hope this will not be an issue
 
 ## Tasks
 ### Task 1
@@ -9,9 +11,14 @@
     * `git add <filename>` then `git commit`
 5. Write a suitable commit message and finalize your commit
 6. 📸 Take a screenshot of your terminal output
+   ![image](https://github.com/AndrianaO/git/assets/79010578/2cedabce-4dab-484c-825b-e3e8bc366a4b)
+
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
+
+    ![image](https://github.com/AndrianaO/git/assets/79010578/4995d34e-fea0-4b8d-858f-6419bd395ba5)
+
 
 ### Task 2
 1. Create a new public repository on GitHub
